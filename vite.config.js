@@ -7,7 +7,3 @@ export default defineConfig({
   server: { host: true, port: process.env.PORT || 3000 },
   preview: { host: true, port: process.env.PORT || 3000 }
 })
-
-Clicar em "Commit changes" → "Commit changes" de novo
-
-O Railway vai fazer o deploy automaticamente! Me avisa quando terminar 🚀 Sonnet 4.6Estendido
